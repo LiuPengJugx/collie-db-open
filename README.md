@@ -10,7 +10,7 @@
 
 ## 系统架构
 
-![Architecture](https://github.com/LiuPengJugx/collie-db-open/blob/master/public/basic.png)
+<img src="https://github.com/LiuPengJugx/collie-db-open/blob/master/public/basic.png" alt="Architecture" style="zoom:50%;" />
 
 - **智能查询优化**：使用机器学习、强化学习等技术，进行查询规模估算、查询代价估算、查询计划生成等，提高数据库查询执行性能。
 - **智能数据分区**：使用基于图神经网络、谱聚类等先进技术，对数据进行智能的水平分区、垂直分区和混合分区，提升数据库系统处理效率。
